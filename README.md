@@ -1,7 +1,7 @@
 # ¡Hola!  Soy Fran 👋
 - Data Analyst comenzando mi proceso de construcción
 
-- Actualmente estoy cursando un bootcamp intesivo sobre la materia.
+- Actualmente estoy cursando un bootcamp intensivo sobre la materia.
 
 - Me interesa aprender cualquier tecnología que me permita tomar las mejores decisiones y automatizar procesos, obteniendo resultados coherentes y de calidad
 
