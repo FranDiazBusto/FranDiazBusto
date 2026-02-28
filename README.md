@@ -1,8 +1,11 @@
 # ¡Hola!  Soy Fran 👋
 -Data Analyst comenzando mi proceso de construcción
--Actualmente estoy cursando un bootcamp instesivo sobre la materia.
--Me interesa aprender cualquier tecnología que me permita tomar las mejores decisiones y automatizar procesos, obteniendo resultados coherentes y de confianza
 
+-Actualmente estoy cursando un bootcamp intesivo sobre la materia.
+
+-Me interesa aprender cualquier tecnología que me permita tomar las mejores decisiones y automatizar procesos, obteniendo resultados coherentes y de calidad
+
+---
 
 ## 🛠️  Stack técnico
 
@@ -13,6 +16,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-93B023?style=for-the-badge&logo=qgis&logoColor=white)
 
+---
 
 ## 📫 Cómo contactarme
 
@@ -20,11 +24,12 @@
 - **Email:** f.diazbusto@gmail.com
 - **GitHub:** Estás aquí 😊
 
+---
 
 ## 📊 GitHub Stats
 
-![Mis stats](https://github-readme-stats.vercel.app/api?username=maria-data&show_icons=true&theme=tokyonight)
+![Mis stats](https://github-readme-stats.vercel.app/api?username=FranDiazBusto&show_icons=true&theme=tokyonight)
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-data&layout=compact&theme=tokyonight)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=FranDiazBusto&layout=compact&theme=tokyonight)
 
 
